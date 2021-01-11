@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bsv",
     "build": "bsv build",
-    "lint": "eslint --ext .jsx.js"
+    "lint": "eslint --ext .jsx,.js"
   },
   "repository": {
     "type": "git",
