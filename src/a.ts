@@ -1,3 +1,3 @@
-var b = 1;
+const b = 1;
 
 console.log(b);
