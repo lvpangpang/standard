@@ -1,8 +1,9 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react';
 
-function App() {
-  return <div className="dabc">哈哈12378</div>
+function Abc() {
+  const a = 1;
+  alert(a);
+  return <div className="dabc">aaa</div>;
 }
 
-ReactDOM.render(<App />, document.querySelector('#root'))
+export default Abc;
