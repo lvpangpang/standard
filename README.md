@@ -9,9 +9,7 @@
   }
 },
 "lint-staged": {
-  "*.{js,jsx,ts,tsx}": [
-    "eslint --fix",
-    "git add"
-  ]
+  "*.{js,jsx,ts,tsx}": "eslint --fix",
+  "*.{css,less}": "stylelint --fix"
 }
 ```
