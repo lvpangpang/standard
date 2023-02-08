@@ -40,7 +40,6 @@
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": "eslint --fix",
-    "*.{css, less}": "stylelint"
-
+    "*.{css,less}": "stylelint --fix"
   }
 }
