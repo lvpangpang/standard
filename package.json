@@ -1,17 +1,13 @@
 {
   "name": "standard",
   "version": "1.0.0",
-  "description": "eslint + stylelint + prettier + husky + lint-staged",
+  "description": "eslint + stylelint + husky + lint-staged",
   "main": "index.js",
-  "scripts": {
-    "start": "bsv",
-    "build": "bsv build"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lvpangpang/standard.git"
   },
-  "author": "",
+  "author": "lvpangpang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lvpangpang/standard/issues"
